@@ -1,0 +1,45 @@
+Aim of the Project:
+
+
+The main aim of the project is to provide complete information about the plants.The technology used for image recoginition is with CNN(Convolutional Neural Netwrok).CNN is one of the main categories to do images recoginition,image classifiaction.CNN basically take input as images process it and classify it under certain categories(Eg., Dog,Cat,Tiger).
+
+
+Proposed System
+This project presents complete information about plants with the help of CNN technology.I use this technology to launch SWYS,with additon of Text Recoginition.
+Two different modules are proposed in this project namely:
+
+
+CNN(Convolutional Neural Netwrok):
+Firebase :
+
+
+Applications:
+
+There are different kinds of Applications used for Firebase formerly known as GCM(Google Cloud Messaging), Firebase Cloud Messaging(FCM)is a cross paltform sloution for messaging and notification for Android,ios and web application. Applications provided by Firebase are FirebaseAnalytics,Firebase Cloud Messaging,FirebaseAuth,Firebase Realtime Database, Firebase Cloud Firestore ,  Firebase Storage and also Machine Learning Kit(ML kit).
+
+
+Literature Survey:
+
+add CNN algo and flow chart and uses in image recoginition.
+
+In text recoginition add that Text recoginition is dome using Ml kit
+
+
+
+System Implementation
+Implementation is the stage of the project when the theoretical design is turned out into a working system. Thus it can be considered to be the most critical stage in achieving a successful new system and in giving the user, confidence that the new system will work and be effective. The implementation stage involves careful planning, investigation of the existing system and it’s constraints on implementation, designing of methods to achieve changeover and evaluation of changeover methods.
+
+
+Conclusion:
+
+
+FUTURE WORK:As of now we are  just working with the real time database  we are implementing on classifying the images and retrriving the specific image when capture is still under process with CNN algo. 
+
+
+
+
+
+
+
+
+

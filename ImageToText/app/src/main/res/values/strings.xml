@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SWYS</string>
+    <string name="snap">Snap</string>
+    <string name="detect">Detect</string>
+    <string name="todo">TODO</string>
+    <string name="speech_toggle_on">speech_toggle_on</string>
+    <string name="speech_toggle_off">speech_toggle_off</string>
+    <string name="start_speaking" />
+    <string name="stop_speaking" />
+    <string name="readoutloud">ReadOutLoud</string>
+    <string name="settings">settings</string>
+
+
+</resources>

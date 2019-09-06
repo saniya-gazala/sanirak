@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832170918767",
+    "firebase_url": "https://imagetotext-70546.firebaseio.com",
+    "project_id": "imagetotext-70546",
+    "storage_bucket": "imagetotext-70546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832170918767:android:611331b4c1f08cee",
+        "android_client_info": {
+          "package_name": "com.example.m.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832170918767-o0cnph8plp2nrgsj0u6jduudjv77debu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.m.imagetotext",
+            "certificate_hash": "1708d7ee3348dce7abfab0df6b5a3a6ae4fc6292"
+          }
+        },
+        {
+          "client_id": "832170918767-9o37fq590e6at8j8ia624vl7ili104tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbsIJiKRCg4uXjEtIqJ7ridL9OAST2ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832170918767-9o37fq590e6at8j8ia624vl7ili104tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
